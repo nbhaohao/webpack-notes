@@ -1,0 +1,19 @@
+body {
+  background: cadetblue;
+  -webkit-transform: translate(100px);
+  -ms-transform: translate(100px);
+  transform: translate(100px); }
+  body h1 {
+    font-size: 30px;
+    color: coral;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center; }
+  body .M3xiUd0e50OjQC1OFCkbS {
+    color: #222222; }
+

@@ -1,0 +1,18 @@
+$themeColor: cadetblue;
+body {
+  background: $themeColor;
+  h1 {
+    font-size: 30px;
+    color: coral;
+    display: flex;
+    justify-content: center;
+  }
+  transform: translate(100px);
+  .customText {
+    color: #222222;
+  }
+}
+
+:export {
+  themeColor: $themeColor;
+}
