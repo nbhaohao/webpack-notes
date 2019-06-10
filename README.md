@@ -9,3 +9,5 @@
 [05-SourceMap](<https://github.com/nbhaohao/webpack-notes/issues/5>)
 
 [06-webpack-dev-server](<https://github.com/nbhaohao/webpack-notes/issues/6>)
+
+[07-hot-module-replacement](<https://github.com/nbhaohao/webpack-notes/issues/7>)
