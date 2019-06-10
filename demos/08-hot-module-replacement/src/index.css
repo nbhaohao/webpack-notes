@@ -1,0 +1,6 @@
+body {
+  background: cadetblue;
+}
+div:nth-child(2n) {
+  background-color: red;
+}
