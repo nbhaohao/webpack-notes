@@ -17,3 +17,5 @@
 **关于 Tree Shaking 可参考 [sideEffects怎么用](https://juejin.im/post/5b4ff9ece51d45190c18bb65)**
 
 **推荐配置：`"sideEffects": false`, 如果要排除 css 文件 -> `"sideEffects": ["*.css"]`**
+
+[09-webpack-merge](https://github.com/nbhaohao/webpack-notes/issues/9)
