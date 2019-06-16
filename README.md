@@ -19,3 +19,5 @@
 **推荐配置：`"sideEffects": false`, 如果要排除 css 文件 -> `"sideEffects": ["*.css"]`**
 
 [09-webpack-merge](https://github.com/nbhaohao/webpack-notes/issues/9)
+
+[10-split-chunks-plugin] // TODO 了解基本配置方法，但实践经验少，很难通过文字的方式表达清楚。
