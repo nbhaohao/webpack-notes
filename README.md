@@ -14,10 +14,11 @@
 
 [08-配置 Babel](https://github.com/nbhaohao/webpack-notes/issues/8)
 
-**关于 Tree Shaking 可参考 [sideEffects怎么用](https://juejin.im/post/5b4ff9ece51d45190c18bb65)**
+**关于 Tree Shaking 可参考 [sideEffects 怎么用](https://juejin.im/post/5b4ff9ece51d45190c18bb65)**
 
 **推荐配置：`"sideEffects": false`, 如果要排除 css 文件 -> `"sideEffects": ["*.css"]`**
 
 [09-webpack-merge](https://github.com/nbhaohao/webpack-notes/issues/9)
 
 [10-split-chunks-plugin] // TODO 了解基本配置方法，但实践经验少，很难通过文字的方式表达清楚。
+[11-webpack-hash](https://github.com/nbhaohao/webpack-notes/issues/11)
