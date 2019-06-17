@@ -22,3 +22,5 @@
 
 [10-split-chunks-plugin] // TODO 了解基本配置方法，但实践经验少，很难通过文字的方式表达清楚。
 [11-webpack-hash](https://github.com/nbhaohao/webpack-notes/issues/11)
+
+[12-webpack-shimming](https://github.com/nbhaohao/webpack-notes/issues/12)
