@@ -21,6 +21,9 @@
 [09-webpack-merge](https://github.com/nbhaohao/webpack-notes/issues/9)
 
 [10-split-chunks-plugin] // TODO 了解基本配置方法，但实践经验少，很难通过文字的方式表达清楚。
+
 [11-webpack-hash](https://github.com/nbhaohao/webpack-notes/issues/11)
 
 [12-webpack-shimming](https://github.com/nbhaohao/webpack-notes/issues/12)
+
+[13-实现一个迷你打包工具](https://github.com/nbhaohao/webpack-notes/issues/13)
